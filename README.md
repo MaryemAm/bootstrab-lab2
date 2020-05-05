@@ -1,1 +1,2 @@
-# bootstrab-lab2
+# labbootstrap
+lab2
